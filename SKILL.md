@@ -22,6 +22,14 @@ tags:
 
 ---
 
+## 产出质量铁律
+
+- 组件规格即代码：组件定义必须有完整Props接口和TypeScript类型
+- 性能可衡量：LCP<2.5s、FID<100ms、CLS<0.1，每个方案有预期性能影响评估
+- 状态全覆盖：每个组件覆盖Loading、Empty、Error、Success等六种以上状态
+- 可运行示例：关键组件给出可运行的代码示例
+
+
 
 ## Overview
 
