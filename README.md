@@ -73,20 +73,6 @@ git clone https://github.com/genapohub/frontend-dev-guide.git ~/.cursor/skills-c
 从 Webpack 迁移到 Vite，出个迁移方案
 ```
 
----
-
-## 目录结构
-
-```
-frontend-dev-guide/
-├── SKILL.md                  # 主指令
-├── README.md
-├── LICENSE
-├── .gitignore
-└── references/
-    └── 前端开发方法论.md       # 详细方法论
-```
-
 ## 许可
 
 [MIT](LICENSE) © zhangmengbo
