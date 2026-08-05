@@ -29,9 +29,7 @@
 
 **方式一：克隆到 skills 目录**
 ```bash
-# 克隆到 workbuddy skill 目录（全局可用）
-git clone https://github.com/genapohub/frontend-dev-guide.git
-zip -r frontend-dev-guide.zip frontend-dev-guide/ ~/.workbuddy/skills/frontend-dev-guide
+git clone https://github.com/genapohub/frontend-dev-guide.git ~/.workbuddy/skills/frontend-dev-guide
 ```
 
 **方式二：ZIP导入**
@@ -56,12 +54,10 @@ zip -r frontend-dev-guide.zip frontend-dev-guide/
 
 ```bash
 # 克隆到 skills 目录
-git clone https://github.com/genapohub/frontend-dev-guide.git
-zip -r frontend-dev-guide.zip frontend-dev-guide/ ~/.codex/skills/frontend-dev-guide
+git clone https://github.com/genapohub/frontend-dev-guide.git ~/.codex/skills/frontend-dev-guide
 
 # 或使用 cc switch (推荐)
-git clone https://github.com/genapohub/frontend-dev-guide.git
-zip -r frontend-dev-guide.zip frontend-dev-guide/ ~/.cc-switch/skills/frontend-dev-guide
+git clone https://github.com/genapohub/frontend-dev-guide.git ~/.cc-switch/skills/frontend-dev-guide
 ```
 
 重启 CC Switch客户端/Codex客户端 后自动发现。也可以在对话中输入 `$frontend-dev-guide` 手动调用。
@@ -69,8 +65,7 @@ zip -r frontend-dev-guide.zip frontend-dev-guide/ ~/.cc-switch/skills/frontend-d
 ### Cursor
 ```bash
 # 克隆到 skills 目录
-git clone https://github.com/genapohub/frontend-dev-guide.git
-zip -r frontend-dev-guide.zip frontend-dev-guide/ ~/.cursor/skills-cursor/frontend-dev-guide
+git clone https://github.com/genapohub/frontend-dev-guide.git ~/.cursor/skills-cursor/frontend-dev-guide
 ```
 
 重启 Cursor客户端 后自动发现。也可以在对话中输入 `$frontend-dev-guide` 手动调用。
